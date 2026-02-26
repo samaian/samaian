@@ -157,7 +157,7 @@
 </a>
 
 <a href="mailto:samaian069@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="40" height="40"/>
 </a>
 
 </p>
