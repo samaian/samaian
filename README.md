@@ -9,7 +9,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 - 🎓 Computer Science student  
 - ⚙️ Backend Developer (.NET / Django / PHP)  
@@ -137,7 +137,7 @@
 </a>
 
 <a href="https://obsidian.md/" target="_blank">
-<img src="https://forum.obsidian.md/t/changeable-app-icon-on-mobile/61308" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1280px-2023_Obsidian_logo.svg.png?_=20230604143825" width="40" height="40"/>
 </a>
 
 </p>
