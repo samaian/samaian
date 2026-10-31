@@ -1,131 +1,75 @@
 # Hi 👋, I'm Sama Mohamed
 
-### .NET Developer | Software Engineering Enthusiast | Competitive Programmer
+### .NET Backend Developer | IT Student | Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Applications;Exploring+Software+Architecture;Passionate+About+Problem+Solving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Designing+Clean+Backend+Architectures;Turning+Ideas+Into+Code;Always+Learning+%26+Improving" />
 </p>
 
 <p align="center">
-  🎓 Information Technology Student at Zagazig University <br/>
-  📍 Egypt <br/>
-  💻 Focused on .NET Backend Development <br/>
-  🏆 Competitive Programming Enthusiast
+  🎓 Information Technology Student @ Zagazig University <br/>
+  💻 Passionate about .NET & Software Engineering <br/>
+  🏆 400+ Problems Solved
 </p>
 
 ---
 
-## 👩‍💻 About Me
+### ⚡ Tech Stack
 
-I'm a Computer Science student passionate about software engineering and building reliable, scalable applications.
-
-- Specializing in **C# and ASP.NET Core Backend Development**.
-- Experienced in building RESTful APIs and working with relational databases.
-- Knowledgeable in Clean Architecture, CQRS, DDD, and Design Patterns.
-- Strong foundation in Data Structures, Algorithms, and Problem Solving.
-- Academic background in Cloud Computing, Networking, Embedded Systems, and Microcontrollers.
-- Interested in continuous learning, software architecture, and solving real-world problems.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
+**Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,php,java" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,php" />
 </p>
 
-### Backend Development & Frameworks
+**Backend & Architecture**
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,django,laravel" />
 </p>
 
-- ASP.NET Core (MVC, Razor Pages, Web API)
-- Entity Framework Core & ADO.NET
-- RESTful API Development
-- Clean Architecture & CQRS
-- Domain-Driven Design (DDD)
-- Design Patterns
+`ASP.NET Core` · `Web API` · `Entity Framework Core` · `ADO.NET` · `Clean Architecture` · `CQRS` · `DDD` · `Design Patterns`
 
-### Frontend Development
+**Frontend & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sqlserver,mysql,postgres" />
 </p>
 
-### Databases
+**Cloud & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgres" />
-</p>
-
-- Microsoft SQL Server
-- MySQL
-- PostgreSQL
-
-### Cloud & IT Fundamentals
-
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,linux" />
-</p>
-
-- Cloud Computing (Microsoft Azure & AWS)
-- Computer Networks
-- Embedded Systems & Microcontrollers
-- Wireless Communications
-
-### Tools & Development Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,clion,rider" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,git,github,visualstudio,vscode" />
 </p>
 
 ---
 
-## 💼 Experience
+### 🚀 Live Project
 
-- **Full Stack Developer Intern (.NET) – DEPI**
-- **Full Stack Developer Intern (PHP) – ITI**
-- **Backend Developer Intern (Django) – ITI**
+🎓 **University LMS**
 
----
-
-## 🚀 Featured Projects
-
-**Qarya – Graduation Project**
-- Developing a marketplace platform using ASP.NET Core Web API and SQL Server.
-- Applying Clean Architecture, CQRS, DDD, and Design Patterns.
-
-**University LMS**
-- Developed and deployed a university Learning Management System.
-- Built using ASP.NET Core MVC and SQL Server.
-- Live Demo: [https://edvora-academy.runasp.net]
-**More projects are available on my GitHub repositories.**
+<a href="https://edvora-academy.runasp.net" target="_blank">
+  <img src="https://img.shields.io/badge/Explore_Live_Project-Visit_Website-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 ---
 
-## 🏆 Competitive Programming
+### 🤝 Let's Connect
 
-- Solved **400+ programming problems** across competitive programming platforms.
-- Strong foundation in Data Structures and Algorithms.
-- Experienced in C++ problem-solving and algorithmic thinking.
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/sama-mohamed-69226a380">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://t.me/SameMohamed1">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40"/>
+    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:samaian069@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
