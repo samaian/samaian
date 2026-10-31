@@ -1,65 +1,80 @@
-# ✦ Sama Mohamed
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=1000&color=7C9CFF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+a+.NET+Backend+Developer;I+Build.+I+Learn.+I+Improve." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Sama%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.NET%20Backend%20Developer%20%7C%20IT%20Student&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <b>IT Student @ Zagazig University</b><br/>
-  Backend Development · Software Engineering · Problem Solving
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=8E7CF3&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+Scalable+.NET+Applications;Exploring+Software+Architecture;Problem+Solver+%26+Continuous+Learner" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sama-mohamed-69226a380">LinkedIn</a> •
-  <a href="mailto:samaian069@gmail.com">Email</a> •
-  <a href="https://t.me/SameMohamed1">Telegram</a>
+  <a href="https://www.linkedin.com/in/sama-mohamed-69226a380"><img src="https://img.shields.io/badge/LinkedIn-Connect-8E7CF3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:samaian069@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4776E6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/SameMohamed1"><img src="https://img.shields.io/badge/Telegram-Message-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 ---
 
-### `01 / ABOUT`
+## ✨ About Me
 
-A technology enthusiast with a strong interest in software engineering and backend development. I enjoy designing structured applications, solving challenging problems, and continuously exploring new technologies.
+🎓 Information Technology Student at Zagazig University
 
-### `02 / WHAT I WORK WITH`
+💻 Focused on .NET Backend Development and Software Engineering.
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,django,laravel" />
+🧠 Interested in Clean Architecture, CQRS, DDD, and Design Patterns.
 
-**Programming**
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,python,php" />
+🏆 400+ Problems Solved | Competitive Programming Enthusiast.
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgres" />
+☁️ Exploring Cloud Computing, Networking, and Emerging Technologies.
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+---
 
-**Cloud & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=azure,aws,git,github,visualstudio,vscode" />
+## ⚡ Tech Stack
 
-<sub>Clean Architecture · CQRS · DDD · Design Patterns · REST APIs · EF Core · ADO.NET</sub>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,python,php,django,laravel&theme=dark" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sqlserver,mysql,postgres&theme=dark" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=azure,aws,git,github,visualstudio,vscode&theme=dark" />
+</p>
 
-### `03 / LIVE PROJECT`
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-8E7CF3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CQRS-4776E6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DDD-8E7CF3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Design%20Patterns-4776E6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-8E7CF3?style=flat-square"/>
+</p>
 
-**University Learning Management System**
+---
 
-A deployed web application built with ASP.NET Core MVC and SQL Server.
+## 🚀 Live Project
 
-[↗ Explore Live Application](https://edvora-academy.runasp.net)
+<p align="center">
+  <a href="https://edvora-academy.runasp.net">
+    <img src="https://img.shields.io/badge/🎓_University_LMS-Explore_Live_Project-8E54E9?style=for-the-badge"/>
+  </a>
+</p>
 
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
 
 ---
 
 <p align="center">
-  <i>"Great software is built with curiosity, consistency, and clean code."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8E7CF3&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together+%E2%9C%A8" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C9CFF&height=3&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=110&section=footer" width="100%"/>
 </p>
