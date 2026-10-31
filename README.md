@@ -1,75 +1,65 @@
-# Hi 👋, I'm Sama Mohamed
-
-### .NET Backend Developer | IT Student | Problem Solver
+# ✦ Sama Mohamed
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Designing+Clean+Backend+Architectures;Turning+Ideas+Into+Code;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=1000&color=7C9CFF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+a+.NET+Backend+Developer;I+Build.+I+Learn.+I+Improve." />
 </p>
 
 <p align="center">
-  🎓 Information Technology Student @ Zagazig University <br/>
-  💻 Passionate about .NET & Software Engineering <br/>
-  🏆 400+ Problems Solved
+  <b>IT Student @ Zagazig University</b><br/>
+  Backend Development · Software Engineering · Problem Solving
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sama-mohamed-69226a380">LinkedIn</a> •
+  <a href="mailto:samaian069@gmail.com">Email</a> •
+  <a href="https://t.me/SameMohamed1">Telegram</a>
 </p>
 
 ---
 
-### ⚡ Tech Stack
+### `01 / ABOUT`
 
-**Languages**
+A technology enthusiast with a strong interest in software engineering and backend development. I enjoy designing structured applications, solving challenging problems, and continuously exploring new technologies.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,php" />
-</p>
+### `02 / WHAT I WORK WITH`
 
-**Backend & Architecture**
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,django,laravel" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,django,laravel" />
-</p>
+**Programming**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,python,php" />
 
-`ASP.NET Core` · `Web API` · `Entity Framework Core` · `ADO.NET` · `Clean Architecture` · `CQRS` · `DDD` · `Design Patterns`
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgres" />
 
-**Frontend & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sqlserver,mysql,postgres" />
-</p>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 
 **Cloud & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,aws,git,github,visualstudio,vscode" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,git,github,visualstudio,vscode" />
-</p>
+<sub>Clean Architecture · CQRS · DDD · Design Patterns · REST APIs · EF Core · ADO.NET</sub>
 
----
+### `03 / LIVE PROJECT`
 
-### 🚀 Live Project
+**University Learning Management System**
 
-🎓 **University LMS**
+A deployed web application built with ASP.NET Core MVC and SQL Server.
 
-<a href="https://edvora-academy.runasp.net" target="_blank">
-  <img src="https://img.shields.io/badge/Explore_Live_Project-Visit_Website-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+[↗ Explore Live Application](https://edvora-academy.runasp.net)
 
----
-
-### 🤝 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/sama-mohamed-69226a380">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://t.me/SameMohamed1">
-    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:samaian069@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <i>"Great software is built with curiosity, consistency, and clean code."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C9CFF&height=3&section=footer" />
 </p>
