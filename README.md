@@ -1,167 +1,131 @@
-<h1 align="center">Hi 👋, I'm Sama Mohamed</h1>
-<h3 align="center">Computer Science Student | FullStack Developer </h3>
+# Hi 👋, I'm Sama Mohamed
+
+### .NET Developer | Software Engineering Enthusiast | Competitive Programmer
 
 <p align="center">
-📍 Egypt <br>
-🎓 Faculty of Computers & Information <br>
-💻 FullStack Developer 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Applications;Exploring+Software+Architecture;Passionate+About+Problem+Solving" />
+</p>
+
+<p align="center">
+  🎓 Information Technology Student at Zagazig University <br/>
+  📍 Egypt <br/>
+  💻 Focused on .NET Backend Development <br/>
+  🏆 Competitive Programming Enthusiast
 </p>
 
 ---
 
-##  About Me
+## 👩‍💻 About Me
 
-- 🎓 Computer Science student  
-- ⚙️ Backend Developer (.NET / Django / PHP)  
-- 🧠 Strong in Data Structures & Problem Solving  
-- 🌐 Web Development (HTML / CSS / JS / Bootstrap)  
-- 🗄️ Databases (SQL Server / MySQL)  
-- 🏆 Competitive Programming Enthusiast  
+I'm a Computer Science student passionate about software engineering and building reliable, scalable applications.
+
+- Specializing in **C# and ASP.NET Core Backend Development**.
+- Experienced in building RESTful APIs and working with relational databases.
+- Knowledgeable in Clean Architecture, CQRS, DDD, and Design Patterns.
+- Strong foundation in Data Structures, Algorithms, and Problem Solving.
+- Academic background in Cloud Computing, Networking, Embedded Systems, and Microcontrollers.
+- Interested in continuous learning, software architecture, and solving real-world problems.
 
 ---
 
-## 🛠️ Programming Languages
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,php,java" />
+</p>
+
+### Backend Development & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,django,laravel" />
+</p>
+
+- ASP.NET Core (MVC, Razor Pages, Web API)
+- Entity Framework Core & ADO.NET
+- RESTful API Development
+- Clean Architecture & CQRS
+- Domain-Driven Design (DDD)
+- Design Patterns
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgres" />
+</p>
+
+- Microsoft SQL Server
+- MySQL
+- PostgreSQL
+
+### Cloud & IT Fundamentals
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,linux" />
+</p>
+
+- Cloud Computing (Microsoft Azure & AWS)
+- Computer Networks
+- Embedded Systems & Microcontrollers
+- Wireless Communications
+
+### Tools & Development Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,clion,rider" />
+</p>
+
+---
+
+## 💼 Experience
+
+- **Full Stack Developer Intern (.NET) – DEPI**
+- **Full Stack Developer Intern (PHP) – ITI**
+- **Backend Developer Intern (Django) – ITI**
+
+---
+
+## 🚀 Featured Projects
+
+**Qarya – Graduation Project**
+- Developing a marketplace platform using ASP.NET Core Web API and SQL Server.
+- Applying Clean Architecture, CQRS, DDD, and Design Patterns.
+
+**University LMS**
+- Developed and deployed a university Learning Management System.
+- Built using ASP.NET Core MVC and SQL Server.
+- Live Demo: [https://edvora-academy.runasp.net]
+**More projects are available on my GitHub repositories.**
+
+---
+
+## 🏆 Competitive Programming
+
+- Solved **400+ programming problems** across competitive programming platforms.
+- Strong foundation in Data Structures and Algorithms.
+- Experienced in C++ problem-solving and algorithmic thinking.
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
-
-<a href="https://cplusplus.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.php.net" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/sama-mohamed-69226a380">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  <a href="https://t.me/SameMohamed1">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40"/>
+  </a>
+  <a href="mailto:samaian069@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40"/>
+  </a>
 </p>
 
 ---
-
-## ⚙️ Backend & Frameworks
-
-<p align="left">
-
-<a href="https://dotnet.microsoft.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
-</a>
-
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-## 🌐 Web Technologies
-
-<p align="left">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-## 🗄️ Databases
-
-<p align="left">
-
-<a href="https://www.microsoft.com/sql-server" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-## 🧰 Tools & IDEs
-
-<p align="left">
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://visualstudio.microsoft.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.jetbrains.com/clion/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.jetbrains.com/rider/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.notion.so/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40" height="40"/>
-</a>
-
-<a href="https://obsidian.md/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1280px-2023_Obsidian_logo.svg.png?_=20230604143825" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-## 🤝 Connect with Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/sama-mohamed-69226a380" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://t.me/YOUR_TELEGRAM" target="https://t.me/SameMohamed1">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" height="40"/>
-</a>
-
-<a href="mailto:samaian069@gmail.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-⭐ Always learning, always building.
