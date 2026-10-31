@@ -71,10 +71,14 @@
 
 ---
 
+## ✨ Developer Highlights
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8E7CF3&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together+%E2%9C%A8" />
+  <img src="https://img.shields.io/badge/400%2B-Problems%20Solved-8E7CF3?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-Backend%20Development-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean%20Code-Always-4776E6?style=for-the-badge&logo=codefactor&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=110&section=footer" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=8E7CF3&center=true&vCenter=true&width=550&lines=Learning+something+new+every+day;Turning+complex+problems+into+solutions;Building+better+software%2C+one+line+at+a+time" />
 </p>
